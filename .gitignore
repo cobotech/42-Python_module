@@ -1,0 +1,17 @@
+# 仮想環境
+.venv*/
+
+# Python が自動で作るキャッシュ
+__pycache__/
+*.pyc
+
+# チェックツールのキャッシュ
+.mypy_cache/
+
+# エディタや OS の設定ファイル
+.vscode/
+*.swp
+.DS_Store
+
+# 自分用のテストファイル（提出しないもの）
+main.py
